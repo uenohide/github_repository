@@ -11,7 +11,8 @@ Javasxript
 PHP 7.0
 
 # Setup
-Webサーバを構築し、PHPをインストールドキュメントルートに「game」フォルダをおいてもらえば動作いたします。
+Webサーバを構築し、PHPをインストールします。
+ドキュメントルートに「game」フォルダを置いてもらえば動作いたします。
 
 git clone https://github.com/uenohide/github_repository.git
 
