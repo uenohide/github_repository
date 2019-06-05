@@ -7,7 +7,7 @@
 使用言語は下記の通りです。
 HTML
 CSS
-Javasxript
+Javasript
 PHP 7.0
 
 # Setup
