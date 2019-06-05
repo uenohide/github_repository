@@ -1,4 +1,4 @@
-![ScreenShot](https://github.com/uenohide/github_repository/tree/master/games/img/9310.jpg)
+
 # uenohide/github_repository
 このソフトは、簡単なWebサーバ上で公開できるゲームになります。
 
