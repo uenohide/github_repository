@@ -1,4 +1,4 @@
-![秋田犬](https://github.com/yoshitaku-jp/test_doc/blob/images/dog_akitainu.png)
+![Git](https://github.com/uenohide/github_repository/tree/master/games/img/9310.png)
 # uenohide/github_repository
 このソフトは、簡単なWebサーバ上で公開できるゲームになります。
 
