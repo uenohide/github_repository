@@ -12,7 +12,7 @@ PHP 7.0
 
 # Setup
 Webサーバを構築し、PHPをインストールします。
-ドキュメントルートに「game」フォルダを置いてもらえば動作いたします。
+ドキュメントルートに「games」フォルダを置いてもらえば動作いたします。
 
 git clone https://github.com/uenohide/github_repository.git
 
