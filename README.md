@@ -19,6 +19,8 @@ git clone https://github.com/uenohide/github_repository.git
 # Usage
 画像をクリックすることでゲームがスタートします。１０秒たったと思ったときに画像を再度クリックし、結果が表示されます。
 
+https://usite.work/games/index.html
+
 # License
 This software is released under the MIT License, see LICENSE.
 
